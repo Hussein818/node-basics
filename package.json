@@ -1,0 +1,7 @@
+{
+  "name": "leanding node.js",
+  "version": "1",
+  "dependencies": {
+    "request": "1.8.6"
+  }
+}
